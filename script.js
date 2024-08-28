@@ -1,5 +1,5 @@
 // リダイレクト先のURLを指定
-const redirectUrl = "https://sites.google.com/view/addonsyoji/%E3%83%9B%E3%83%BC%E3%83%A0";  // リダイレクト先のURLを指定してください
+const redirectUrl = "https://sites.google.com/view/totoserver/home";  // リダイレクト先のURLを指定してください
 
 // 3秒後にリダイレクト
 setTimeout(() => {
